@@ -5,6 +5,7 @@ It is a classic memory game. To play the game, you need to click one card to fli
 
 
 Click the link to play:
+https://junfang219.github.io/
 
 
 
